@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InApp_Purchase_With_Library.iml" filepath="$PROJECT_DIR$/.idea/modules/InApp_Purchase_With_Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/InApp_Purchase_With_Library.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/InApp_Purchase_With_Library.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/InApp_Purchase_With_Library.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/InApp_Purchase_With_Library.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/InApp_Purchase_With_Library.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/InApp_Purchase_With_Library.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/InApp_Purchase_With_Library.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/InApp_Purchase_With_Library.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inapppurchase/InApp_Purchase_With_Library.inapppurchase.iml" filepath="$PROJECT_DIR$/.idea/modules/inapppurchase/InApp_Purchase_With_Library.inapppurchase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inapppurchase/InApp_Purchase_With_Library.inapppurchase.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/inapppurchase/InApp_Purchase_With_Library.inapppurchase.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inapppurchase/InApp_Purchase_With_Library.inapppurchase.main.iml" filepath="$PROJECT_DIR$/.idea/modules/inapppurchase/InApp_Purchase_With_Library.inapppurchase.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inapppurchase/InApp_Purchase_With_Library.inapppurchase.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/inapppurchase/InApp_Purchase_With_Library.inapppurchase.unitTest.iml" />
+    </modules>
+  </component>
+</project>
